@@ -26,7 +26,7 @@ Tech job boards (with remote  working opportunities) in one place.
 - https://jobsremotely.com/
 - https://remotecoder.io/
 
-### Remote (listing/ indexing)
+### Remote (indexing)
 - http://remoteok.io/
 
 ### Frontend
