@@ -15,17 +15,19 @@ Tech job boards (with remote  working opportunities) in one place.
 - http://craigslist.org/
 - https://nofluffjobs.com/
 
-### Remote (listing & indexing)
+### Remote (listing/ indexing)
 - http://nomadjobs.io/
 - https://weworkremotely.com/
 - http://jobs.remotive.io/
 - http://jobscri.be/list/
 - http://www.workingnomads.co/jobs
-- http://remoteok.io/
 - http://www.remoteworkhunt.com/
 - http://itflow.biz/
 - https://jobsremotely.com/
 - https://remotecoder.io/
+
+### Remote (listing/ indexing)
+- http://remoteok.io/
 
 ### Frontend
 - http://frontenddeveloperjob.com/
