@@ -26,11 +26,11 @@ Tech job boards (with remote  working opportunities) in one place.
 - http://itflow.biz/
 - https://jobsremotely.com/
 - https://remotecoder.io/
-- http://jobs.smashingmagazine.com/
 
 ### Frontend
 - http://frontenddeveloperjob.com/
 - http://codepen.io/jobs
+- http://jobs.smashingmagazine.com/
 
 ### PHP
 - https://larajobs.com/
