@@ -26,7 +26,7 @@ Tech job boards (with remote working opportunities) in one place.
 - http://itflow.biz/
 - https://jobsremotely.com/
 - https://remotecoder.io/
-- hhttp://remoteinternships.com/ (internships only)
+- http://remoteinternships.com/ (internships only)
 
 ### Frontend
 - http://frontenddeveloperjob.com/
