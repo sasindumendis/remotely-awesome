@@ -1,11 +1,11 @@
 # Tech Job Surf
-Tech job boards (with remote  working opportunities) in one place.
+Tech job boards (with remote working opportunities) in one place.
 
 ------------------------------------------------------------------
 
 ## International
 
-### Generic (listing)
+### Generic
 - http://careers.stackoverflow.com
 - https://angel.co/jobs
 - https://news.ycombinator.com/jobs
@@ -15,7 +15,8 @@ Tech job boards (with remote  working opportunities) in one place.
 - http://craigslist.org/
 - https://nofluffjobs.com/
 
-### Remote (listing/ indexing)
+### Remote
+- **http://remoteok.io/** (indexing only, from many popular sources)
 - http://nomadjobs.io/
 - https://weworkremotely.com/
 - http://jobs.remotive.io/
@@ -25,16 +26,14 @@ Tech job boards (with remote  working opportunities) in one place.
 - http://itflow.biz/
 - https://jobsremotely.com/
 - https://remotecoder.io/
-
-### Remote (indexing)
-- http://remoteok.io/
+- hhttp://remoteinternships.com/ (internships only)
 
 ### Frontend
 - http://frontenddeveloperjob.com/
 - http://codepen.io/jobs
 - http://jobs.smashingmagazine.com/
 
-### PHP
+### PHP/ Laravel
 - https://larajobs.com/
 
 ------------------------------------------------------------------
