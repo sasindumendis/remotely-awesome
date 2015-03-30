@@ -1,47 +1,59 @@
-# Tech Job Surf
-Tech job boards (with remote working opportunities) in one place.
+# Remotely Awesome
 
-------------------------------------------------------------------
+#### A curated list of useful resources in one place related to remote working in Tech
 
-## International
+> *Inspired by the Awesome-X trend on GitHub*
 
-### Generic
-- http://careers.stackoverflow.com
-- https://angel.co/jobs
-- https://news.ycombinator.com/jobs
-- https://dribbble.com/jobs
-- https://jobs.github.com/
-- http://www.authenticjobs.com
-- http://craigslist.org/
-- https://nofluffjobs.com/
+## Readings (lessons learned, insights & guides)
 
-### Remote
+### Books
+
+- http://37signals.com/remote/
+- http://scottberkun.com/yearwithoutpants/
+ 
+### Articles 
+- http://remotenation.co/
+- https://overflow.bufferapp.com/, https://open.bufferapp.com/
+- http://www.remoteworking.io/blog/
+- http://blog.remotive.io/
+- https://medium.com/digital-nomad-stories
+
+## Job Listings
+
+### Remote Specific
 - **http://remoteok.io/** (indexing only, from many popular sources)
-- http://nomadjobs.io/
+- http://remotus.com/ (fulltime positions only)
 - https://weworkremotely.com/
 - http://jobs.remotive.io/
+- https://www.wfh.io/
+- http://nomadjobs.io/
 - http://jobscri.be/list/
-- http://www.workingnomads.co/jobs
+- http://www.workingnomads.co/jobs/
 - http://www.remoteworkhunt.com/
 - http://itflow.biz/
 - https://jobsremotely.com/
 - https://remotecoder.io/
 - http://workatho.me/
+- http://www.flexjobs.com/jobs/
+- http://jobmote.com/
 - http://remoteinternships.com/ (internships only)
 
-### Frontend
+### Generic (with remote opportunities listed)
+- http://careers.stackoverflow.com/
+- https://angel.co/jobs/
+- https://news.ycombinator.com/jobs/
+- https://dribbble.com/jobs/
+- https://jobs.github.com/
+- http://www.authenticjobs.com/
+- http://craigslist.org/
+- https://nofluffjobs.com/
 - http://frontenddeveloperjob.com/
-- http://codepen.io/jobs
+- http://codepen.io/jobs/
 - http://jobs.smashingmagazine.com/
+- https://larajobs.com/ (Laravel/ PHP focused)
+- https://unicornhunt.io/
+- https://www.jobbox.io/offers/
 
-### PHP/ Laravel
-- https://larajobs.com/
+## Programs
 
-------------------------------------------------------------------
-
-## Local 
-
-### Europe
-- https://unicornhunt.io
-- https://www.jobbox.io/offers
-
+- http://www.remoteyear.com/
