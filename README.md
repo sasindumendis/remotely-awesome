@@ -36,7 +36,6 @@
 - http://workatho.me/
 - http://www.flexjobs.com/jobs/
 - http://jobmote.com/
-- http://remoteinternships.com/ (internships only)
 
 ### Generic (with remote opportunities listed)
 - http://careers.stackoverflow.com/
