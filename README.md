@@ -1,6 +1,6 @@
 # Remotely Awesome
 
-#### A curated list of useful resources in one place related to remote working in Tech
+#### A curated list of useful resources related to remote working in Tech
 
 > *Inspired by the Awesome-X trend on GitHub*
 
